@@ -1,12 +1,13 @@
-# Lab Report: Heuristic Evaluation of E-Commerce Websites
+# Heuristic Evaluation of E-Commerce Websites
 ## Comparative UX Analysis: Amazon India vs Flipkart
 
 ---
 
-**Course:** Human-Computer Interaction / UX Design Lab  
-**Experiment:** Heuristic Evaluation of Existing Websites  
-**Websites Evaluated:** Amazon India (amazon.in) and Flipkart (flipkart.com)  
-**Date:** May 2026  
+**Name:** Ahil Santo A 
+
+**Reg_no:** 212224040018 
+
+**Date:** 15-05-2026  
 
 ---
 
